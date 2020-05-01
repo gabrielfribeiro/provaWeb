@@ -1,0 +1,133 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: arial;
+	vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+    line-height: 1;
+    background-color: rgb(0, 126, 42);
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.superior{
+   height: 150px;
+   font-size: 50px;
+   text-align: center;
+   padding: 0px 0 0 0;
+   width: 100%;
+   background-color: rgb(0, 126, 42);
+   color: aliceblue;
+   font-family: sans-serif;
+}
+h3{
+    font-size: 25px;
+    padding: 20px 0 0 0;
+    font: Arial, Helvetica, sans-serif;
+}
+.meio{
+    background-color: aliceblue;
+    height: 700px;
+}
+#milho{
+    height: 300px;
+    width: 300px;
+    float: left;
+    margin-left: 150px;
+    margin-top: 50px;
+    
+}
+#soja{
+    height: 300px;
+    width: 300px;
+    margin-left: 150px;
+    margin-top: 50px;
+    float: left;
+}
+#feijao{
+    height: 300px;
+    width: 300px;
+    margin-left: 150px;
+    margin-top: 50px;
+    float: left;
+}
+#trigo{
+    height: 300px;
+    width: 300px;
+    margin-left: 150px;
+    margin-top: 50px;
+    float: left;
+}
+.milho1{
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-bottom: 100px;
+    position: absolute;
+    top: 510px;
+    left: 270px;
+}
+.soja1{
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-bottom: 100px;
+    position: absolute;
+    top: 510px;
+    left: 730px;
+}
+.feijao1{
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-bottom: 100px;
+    position: absolute;
+    top: 510px;
+    left: 1170px;
+}
+.trigo1{
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-bottom: 100px;
+    position: absolute;
+    top: 510px;
+    left: 1625px;
+}
+.telefone{
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-bottom: 100px;
+    position: absolute;
+    top: 610px;
+    left: 780px;
+}
+
